@@ -2,3 +2,5 @@
 
 # cufflinks_docker
 Docker container for Cufflinks for Transcriptome assembly and differential expression analysis for RNA-Seq
+
+[The Docker image is available](https://hub.docker.com/r/fomightez/rnaseqcufflinks/) at Docker Hub.
